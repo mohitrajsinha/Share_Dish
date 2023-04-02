@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Shahi Paneer",
+            "desc": "Restraunt 1",
+            "price": 9,
+            "color": "#33505a",
+            "image":"https://marketplace.canva.com/EAESMsqG9rI/3/0/1600w/canva-grey-%26-green-elegant-minimal-good-taste-food-restaurant-logo-jeSR74GRMC8.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Paneer Tikka",
+            "desc": "Restraunt 2",
+            "price": 69,
+            "color": "#00ac51",
+            "image": "https://marketplace.canva.com/EAFMvhEzAKw/1/0/1600w/canva-brown-simple-food-store-logo-LPHhlwzIoMQ.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Rice-Chole",
+            "desc": "Restraunt 3",
+            "price": 19,
+            "color": "#e0bfae",
+            "image": "https://img.freepik.com/premium-vector/restaurant-logo-design-template_79169-56.jpg?w=2000"
+        },
+        {
+            "id": 4,
+            "name": "Aloo-Gobhi",
+            "desc": "Restraunt 4",
+            "price": 50,
+            "color": "#544ee4",
+            "image": "https://marketplace.canva.com/EAEt266QTwQ/1/0/1600w/canva-black-white-restaurant-typography-logo-sQfy1lVdUXY.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Dal-Makhni",
+            "desc": "Restraunt 5",
+            "price": 20,
+            "color": "#e3e4e9",
+            "image": "https://static.vecteezy.com/system/resources/previews/007/502/666/original/h-l-restaurant-logo-design-concept-for-food-service-vector.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Shawrma",
+            "desc": "Restraunt 6",
+            "price": 79,
+            "color": "#f73984",
+            "image": "https://www.48hourslogo.com/oss/works/2023/03/15/71044623730/125026_62563_16f215ca-8bb7-413c-8765-c0166890cb8d.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Green Salad",
+            "desc": "Restraunt 7",
+            "price": 12,
+            "color": "#1c1c1c",
+            "image":"https://www.logodesign.net/images/tutorials/restaurent-logos/restaurant-logo-designer-needs.png"
+        },
+        {
+            "id": 8,
+            "name": "Burger Patty",
+            "desc": "Restraunt 8",
+            "price": 8,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9E3RT3RpiP6CBqyaLMghv4-gE9xd56Bi6d7ObGl9aJmAF82sTU0yFDcp0EDkuI7aQNik&usqp=CAU"
+        }
+    ]
+}
