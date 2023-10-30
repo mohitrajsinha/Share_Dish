@@ -25,9 +25,9 @@ flutter clean
 flutter pub get
 ```
 5. After successfully downloading all dependencies, you are ready to run the app.
-'''
+```   
 flutter run --no-sound-null-safety
-'''
+```
 It is preferred you run the app on an actual Andriod device or emulator since it was primarily tested on Andriod; however, iOS will also work.
 
 ## What's Next
