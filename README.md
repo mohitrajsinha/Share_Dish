@@ -2,6 +2,10 @@
 
 Share_Dish is an innovative new app that bridges the gap between restaurants and non-governmental organizations (NGOs) - a platform that allows these two entities to connect and share the surplus food left over at the end of the day. Our app is designed to streamline the process of redistributing excess food to those in need while reducing waste and promoting sustainability. With just a few taps on their smartphone, restaurant owners can easily donate food to local NGOs, who can then distribute it to those who are hungry or food insecure.
 
+## Demo
+
+https://github.com/mohitrajsinha/share_dish/assets/112544299/091cefef-3f04-4d06-9d5b-03e21fd0b5f6
+
 ## Features
 - User can log in and signup easily.
 - NGOs can look for the food and its quantity and condition.
